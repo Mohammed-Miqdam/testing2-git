@@ -7,6 +7,9 @@ class student
  {
      int id;
      String name;
+     String name = "MOHAMMED MIQDAM";
+
+
  }
 
     void display()
